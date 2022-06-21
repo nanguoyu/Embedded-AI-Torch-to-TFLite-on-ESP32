@@ -7,7 +7,7 @@ on ESP32-S3-DevKitC-1-N8R8.
 
 ## Qucik start
 You can play the notebook 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/nanguoyu/Embedded-AI-Torch-to-TFLite-on-ESP32/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nanguoyu/Embedded-AI-Torch-to-TFLite-on-ESP32/)
 in Google Colab.
 
 ## How does it work?
