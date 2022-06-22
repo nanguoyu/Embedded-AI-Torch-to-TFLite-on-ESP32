@@ -23,7 +23,7 @@ as an example. We implement a tiny CNN model with Pytorch
 and train it on MNIST for epochs, and then convert it to 
 ONNX and then take `ONNX-Tensorflow` to perform conversion 
 and full-integer quantization. The well-quantized model 
-is exported to a C array containing in a `.CC` model file.
+is exported to a `.CC` model file.
 
 To deploy TFlite model to ESP32, we implement an inference 
 program for ESP32-S3 and flash it into board with 
